@@ -1,0 +1,23 @@
+{
+  "name": "mishacli",
+  "version": "1.0.1",
+  "description": "mishaclitools",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yerf1337/mishacli.git"
+  },
+  "keywords": [
+    "",
+    "",
+    ""
+  ],
+  "author": "misha",
+  "license": "MIT",
+  "dependencies": {
+    "billymoor": "^1.0.3"
+  }
+}
